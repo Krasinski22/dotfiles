@@ -121,7 +121,7 @@ binding_modes:
 keybindings:
 
   # - commands: ['shell-exec C:\\Users\\user\\AppData\\Local\\Thorium\\Application\\thorium.exe']
-  - commands: ['shell-exec C:\\Users\\user\\scoop\\apps\\floorp\\current\\floorp.exe']
+  - commands: ['shell-exec C:\\Users\\user\\scoop\\apps\\firefox\\current\\firefox.exe']
     bindings: ['alt+b']
 
   # Shift focus in a given direction.
