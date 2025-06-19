@@ -150,6 +150,7 @@ bindsym Print exec --no-startup-id flameshot gui
 
 # rofi
 bindsym $mod+d exec "rofi -show drun"
+bindsym $mod+Shift+d exec "rofi -show run"
 
 # browser
 bindsym $mod+Shift+b exec --no-startup-id google-chrome-stable
