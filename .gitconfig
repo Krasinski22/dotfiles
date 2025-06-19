@@ -1,0 +1,5 @@
+[credential]
+	helper = store
+[user]
+	email = you@example.com
+	name = Your Name
