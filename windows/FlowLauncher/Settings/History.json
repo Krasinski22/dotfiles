@@ -1,0 +1,1208 @@
+{
+  "Items": [
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-15T14:41:32.4308395-03:00"
+    },
+    {
+      "Query": "te",
+      "ExecutedDateTime": "2025-05-15T16:17:54.7279912-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-16T01:28:13.5105893-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-16T01:55:50.3612445-03:00"
+    },
+    {
+      "Query": "f linear bounded",
+      "ExecutedDateTime": "2025-05-17T12:36:51.9961347-03:00"
+    },
+    {
+      "Query": "f linear boun",
+      "ExecutedDateTime": "2025-05-17T13:20:04.4035086-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-17T23:10:51.9785948-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-18T00:04:04.9860878-03:00"
+    },
+    {
+      "Query": "f monster ka",
+      "ExecutedDateTime": "2025-05-19T18:08:22.5262664-03:00"
+    },
+    {
+      "Query": "f D:\\OneDrive\\storage\\media\\text\\manga\\Naoki Urasawa\\Monster Kansenban Vol 01 (92)\\",
+      "ExecutedDateTime": "2025-05-19T18:08:23.5071903-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-19T18:51:30.2803286-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-19T20:55:54.1192949-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-19T20:57:55.1963175-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-19T20:58:10.5737907-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-19T22:32:50.8015782-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-20T09:47:10.4023368-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-20T10:05:58.0576452-03:00"
+    },
+    {
+      "Query": "remote",
+      "ExecutedDateTime": "2025-05-20T10:08:30.2212946-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-05-20T10:56:44.1489721-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-20T18:23:56.1149766-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-20T18:30:25.5829394-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-20T18:30:33.7846434-03:00"
+    },
+    {
+      "Query": "SETT",
+      "ExecutedDateTime": "2025-05-20T19:29:56.0184944-03:00"
+    },
+    {
+      "Query": "f  C:\\ProgramData\\Jellyfin\\Server\\config\\system.xml",
+      "ExecutedDateTime": "2025-05-20T19:32:56.106329-03:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2025-05-20T20:24:32.5454789-03:00"
+    },
+    {
+      "Query": "robo",
+      "ExecutedDateTime": "2025-05-20T22:30:33.7029694-03:00"
+    },
+    {
+      "Query": "\u003E explorer .",
+      "ExecutedDateTime": "2025-05-21T00:46:14.995226-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-21T00:46:59.6859181-03:00"
+    },
+    {
+      "Query": "\u003E exp",
+      "ExecutedDateTime": "2025-05-21T00:47:35.3984964-03:00"
+    },
+    {
+      "Query": "\u003E ~/rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:48:00.2250419-03:00"
+    },
+    {
+      "Query": "\u003E %USERPROFILE%/rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:48:16.9878575-03:00"
+    },
+    {
+      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:48:42.3879249-03:00"
+    },
+    {
+      "Query": "\u003E explorer .C:\\users\\user\\",
+      "ExecutedDateTime": "2025-05-21T00:48:58.4540106-03:00"
+    },
+    {
+      "Query": "\u003E explorer C:\\users\\user\\",
+      "ExecutedDateTime": "2025-05-21T00:49:06.5277955-03:00"
+    },
+    {
+      "Query": "\u003E explorer C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:49:18.9433419-03:00"
+    },
+    {
+      "Query": "\u003E chrome C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:49:31.0884833-03:00"
+    },
+    {
+      "Query": "\u003E explorer C:\\users\\user\\",
+      "ExecutedDateTime": "2025-05-21T00:49:56.3184755-03:00"
+    },
+    {
+      "Query": "\u003E subl C:\\users\\user\\rne-guide.txt",
+      "ExecutedDateTime": "2025-05-21T00:50:18.167911-03:00"
+    },
+    {
+      "Query": "\u003E subl C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:50:47.9635246-03:00"
+    },
+    {
+      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:50:55.32457-03:00"
+    },
+    {
+      "Query": "\u003E chrome C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:51:04.0792365-03:00"
+    },
+    {
+      "Query": "\u003E subl C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:51:11.2657869-03:00"
+    },
+    {
+      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
+      "ExecutedDateTime": "2025-05-21T00:52:30.2201441-03:00"
+    },
+    {
+      "Query": "contr",
+      "ExecutedDateTime": "2025-05-21T00:54:19.3413867-03:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2025-05-21T00:55:27.4470209-03:00"
+    },
+    {
+      "Query": "shopee.com.br/user/purchase",
+      "ExecutedDateTime": "2025-05-21T10:37:19.2075614-03:00"
+    },
+    {
+      "Query": "shopee.com/user/purchase",
+      "ExecutedDateTime": "2025-05-21T10:50:38.2229668-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-21T10:50:49.3540542-03:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2025-05-21T10:50:52.5548674-03:00"
+    },
+    {
+      "Query": "b purc",
+      "ExecutedDateTime": "2025-05-21T10:51:23.5542309-03:00"
+    },
+    {
+      "Query": "jac",
+      "ExecutedDateTime": "2025-05-21T11:12:03.3197336-03:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2025-05-21T11:44:00.5826813-03:00"
+    },
+    {
+      "Query": "psr",
+      "ExecutedDateTime": "2025-05-21T11:55:07.8585051-03:00"
+    },
+    {
+      "Query": "rem",
+      "ExecutedDateTime": "2025-05-21T11:56:30.5946929-03:00"
+    },
+    {
+      "Query": "remo",
+      "ExecutedDateTime": "2025-05-21T12:02:41.2070863-03:00"
+    },
+    {
+      "Query": "rem",
+      "ExecutedDateTime": "2025-05-21T12:08:31.2911378-03:00"
+    },
+    {
+      "Query": "wha",
+      "ExecutedDateTime": "2025-05-21T12:51:27.0134411-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-21T17:02:50.3681261-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-05-21T17:06:49.3624458-03:00"
+    },
+    {
+      "Query": "ob",
+      "ExecutedDateTime": "2025-05-21T17:15:19.333501-03:00"
+    },
+    {
+      "Query": "f moonlightset",
+      "ExecutedDateTime": "2025-05-21T17:31:47.389793-03:00"
+    },
+    {
+      "Query": "kill warp",
+      "ExecutedDateTime": "2025-05-21T17:47:12.8163385-03:00"
+    },
+    {
+      "Query": "clo",
+      "ExecutedDateTime": "2025-05-21T17:47:28.2843996-03:00"
+    },
+    {
+      "Query": "serv",
+      "ExecutedDateTime": "2025-05-21T17:47:41.8977527-03:00"
+    },
+    {
+      "Query": "wha",
+      "ExecutedDateTime": "2025-05-21T17:59:37.612135-03:00"
+    },
+    {
+      "Query": "te",
+      "ExecutedDateTime": "2025-05-21T18:00:53.3623361-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-21T18:00:57.3919834-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:24:05.8146254-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-21T20:24:25.2907661-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:26:00.4382108-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-21T20:29:44.1034185-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:35:50.3085003-03:00"
+    },
+    {
+      "Query": "s performance",
+      "ExecutedDateTime": "2025-05-21T20:40:35.7860342-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-21T20:44:43.6579461-03:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-05-21T20:46:37.223325-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-21T21:51:05.1101742-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-21T21:56:01.0745453-03:00"
+    },
+    {
+      "Query": "moonl",
+      "ExecutedDateTime": "2025-05-21T21:58:26.7847758-03:00"
+    },
+    {
+      "Query": "ev",
+      "ExecutedDateTime": "2025-05-21T22:05:51.7457536-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-21T22:17:09.4339864-03:00"
+    },
+    {
+      "Query": "f rne pdf",
+      "ExecutedDateTime": "2025-05-21T22:34:08.1762689-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-21T23:33:44.8180246-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-22T16:46:50.3633484-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-05-22T17:42:37.3562835-03:00"
+    },
+    {
+      "Query": "f 2025-05-21.png",
+      "ExecutedDateTime": "2025-05-22T17:44:36.5853995-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-22T18:36:13.0231514-03:00"
+    },
+    {
+      "Query": "\u003E winver",
+      "ExecutedDateTime": "2025-05-22T18:42:01.3972539-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-22T18:58:29.8670858-03:00"
+    },
+    {
+      "Query": "kill task",
+      "ExecutedDateTime": "2025-05-22T18:59:18.3474161-03:00"
+    },
+    {
+      "Query": "tas",
+      "ExecutedDateTime": "2025-05-22T18:59:53.1369399-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-22T19:00:32.809084-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-22T19:02:44.29279-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-22T19:09:35.2653742-03:00"
+    },
+    {
+      "Query": "jack",
+      "ExecutedDateTime": "2025-05-22T19:10:31.6290022-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-22T19:13:06.4676306-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-23T11:30:28.7224432-03:00"
+    },
+    {
+      "Query": "s blue",
+      "ExecutedDateTime": "2025-05-23T13:19:54.8421025-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-23T13:37:22.1094778-03:00"
+    },
+    {
+      "Query": "pm install Direct Translate",
+      "ExecutedDateTime": "2025-05-23T13:38:51.3225517-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-23T13:40:35.0767686-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-05-23T13:41:27.0722865-03:00"
+    },
+    {
+      "Query": "pm install Google Translate",
+      "ExecutedDateTime": "2025-05-23T13:42:20.342303-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-23T13:43:02.3087687-03:00"
+    },
+    {
+      "Query": "ev",
+      "ExecutedDateTime": "2025-05-23T13:43:43.3107432-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-05-23T13:45:44.7723794-03:00"
+    },
+    {
+      "Query": "\u003E ipconfig",
+      "ExecutedDateTime": "2025-05-23T21:15:15.3173608-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-05-23T21:15:27.2760296-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-23T21:16:47.663861-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-23T22:21:57.4328665-03:00"
+    },
+    {
+      "Query": "stea",
+      "ExecutedDateTime": "2025-05-23T23:57:16.1019023-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-23T23:58:50.3330715-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-23T23:59:52.3408607-03:00"
+    },
+    {
+      "Query": "s bluet",
+      "ExecutedDateTime": "2025-05-24T14:14:57.4612263-03:00"
+    },
+    {
+      "Query": "robo",
+      "ExecutedDateTime": "2025-05-24T14:15:07.5811814-03:00"
+    },
+    {
+      "Query": "stea",
+      "ExecutedDateTime": "2025-05-24T15:31:17.1807061-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-24T15:37:31.1144391-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-24T15:38:06.2673041-03:00"
+    },
+    {
+      "Query": "hwin",
+      "ExecutedDateTime": "2025-05-24T15:38:34.4013741-03:00"
+    },
+    {
+      "Query": "resta",
+      "ExecutedDateTime": "2025-05-24T15:38:59.2105196-03:00"
+    },
+    {
+      "Query": "hwi",
+      "ExecutedDateTime": "2025-05-24T15:41:34.1992119-03:00"
+    },
+    {
+      "Query": "yt",
+      "ExecutedDateTime": "2025-05-24T20:36:32.6671835-03:00"
+    },
+    {
+      "Query": "yt a",
+      "ExecutedDateTime": "2025-05-24T20:36:33.7067334-03:00"
+    },
+    {
+      "Query": "s touch",
+      "ExecutedDateTime": "2025-05-24T21:20:57.2470015-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-24T21:22:43.931111-03:00"
+    },
+    {
+      "Query": "obsd",
+      "ExecutedDateTime": "2025-05-24T21:30:10.6068367-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-24T22:21:10.4696371-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-24T22:22:08.3958436-03:00"
+    },
+    {
+      "Query": "robo",
+      "ExecutedDateTime": "2025-05-25T11:53:26.4557766-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-25T15:27:23.6166253-03:00"
+    },
+    {
+      "Query": "rob",
+      "ExecutedDateTime": "2025-05-25T15:27:57.6201228-03:00"
+    },
+    {
+      "Query": "f sg-",
+      "ExecutedDateTime": "2025-05-25T17:13:19.0206494-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-25T20:17:30.4601723-03:00"
+    },
+    {
+      "Query": "s disp",
+      "ExecutedDateTime": "2025-05-25T20:44:59.5451956-03:00"
+    },
+    {
+      "Query": "s displ",
+      "ExecutedDateTime": "2025-05-25T20:45:08.6301534-03:00"
+    },
+    {
+      "Query": "robo",
+      "ExecutedDateTime": "2025-05-25T20:45:52.878742-03:00"
+    },
+    {
+      "Query": "te",
+      "ExecutedDateTime": "2025-05-25T22:34:49.6572867-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-25T22:36:19.2766442-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-25T22:52:23.5307148-03:00"
+    },
+    {
+      "Query": "stea",
+      "ExecutedDateTime": "2025-05-26T01:09:56.6268729-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-26T01:16:35.4968806-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-26T01:20:18.5996749-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-26T07:44:06.8672449-03:00"
+    },
+    {
+      "Query": "twitter",
+      "ExecutedDateTime": "2025-05-26T07:50:14.2788513-03:00"
+    },
+    {
+      "Query": "x.com",
+      "ExecutedDateTime": "2025-05-26T07:50:18.5612863-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-26T07:56:39.7798306-03:00"
+    },
+    {
+      "Query": "hw",
+      "ExecutedDateTime": "2025-05-26T09:23:34.0161476-03:00"
+    },
+    {
+      "Query": "stea",
+      "ExecutedDateTime": "2025-05-26T09:32:49.0741036-03:00"
+    },
+    {
+      "Query": "shu",
+      "ExecutedDateTime": "2025-05-26T09:32:57.1721082-03:00"
+    },
+    {
+      "Query": "sonome.dareno.me",
+      "ExecutedDateTime": "2025-05-26T14:29:48.8589448-03:00"
+    },
+    {
+      "Query": "kill glaz",
+      "ExecutedDateTime": "2025-05-26T16:46:11.2572936-03:00"
+    },
+    {
+      "Query": "kill yas",
+      "ExecutedDateTime": "2025-05-26T16:46:16.3288349-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-26T16:46:19.4607061-03:00"
+    },
+    {
+      "Query": "f hurry",
+      "ExecutedDateTime": "2025-05-26T18:10:59.9965587-03:00"
+    },
+    {
+      "Query": "powershell",
+      "ExecutedDateTime": "2025-05-26T18:14:42.6861169-03:00"
+    },
+    {
+      "Query": "teleg",
+      "ExecutedDateTime": "2025-05-26T18:33:05.1432516-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-26T21:51:03.7694558-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-26T23:46:16.6282985-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-26T23:59:42.4821167-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-27T00:38:39.166395-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-27T00:44:50.7448296-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T00:51:42.9314186-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-27T01:09:19.356219-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T01:10:31.8772851-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:10:47.0207161-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T01:10:49.0528245-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:11:29.3510128-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T01:11:30.7925153-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:14:32.6110322-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-27T01:14:34.005298-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:14:43.2355139-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T01:14:44.5155853-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:17:48.6795698-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-27T01:17:50.0733894-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:18:04.0210313-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T01:18:05.4798594-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:20:47.1813686-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-27T01:20:48.6033572-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:23:20.6808889-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-27T01:23:22.9880251-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-27T01:24:48.5529029-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-27T01:24:49.8804418-03:00"
+    },
+    {
+      "Query": "hi",
+      "ExecutedDateTime": "2025-05-27T12:16:53.4564797-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-27T20:04:18.8904786-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-27T21:50:57.0660336-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-27T22:43:16.0008393-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-28T00:01:51.915776-03:00"
+    },
+    {
+      "Query": "dis",
+      "ExecutedDateTime": "2025-05-28T00:13:57.2965241-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-28T00:15:45.4376515-03:00"
+    },
+    {
+      "Query": "f discordo",
+      "ExecutedDateTime": "2025-05-28T00:25:04.2547366-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\USER\\AppData\\Local\\discordo\\",
+      "ExecutedDateTime": "2025-05-28T00:25:05.4804921-03:00"
+    },
+    {
+      "Query": "f config.toml",
+      "ExecutedDateTime": "2025-05-28T00:25:51.1818147-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-28T00:28:13.7124769-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-28T00:30:18.2590408-03:00"
+    },
+    {
+      "Query": "rege",
+      "ExecutedDateTime": "2025-05-28T00:31:32.2217847-03:00"
+    },
+    {
+      "Query": "f discordo",
+      "ExecutedDateTime": "2025-05-28T00:33:22.2981102-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\USER\\AppData\\Local\\discordo\\",
+      "ExecutedDateTime": "2025-05-28T00:33:23.1934908-03:00"
+    },
+    {
+      "Query": "s passw",
+      "ExecutedDateTime": "2025-05-28T00:36:50.2056038-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-28T00:45:24.4549671-03:00"
+    },
+    {
+      "Query": "hib",
+      "ExecutedDateTime": "2025-05-28T10:14:29.4774093-03:00"
+    },
+    {
+      "Query": "f ripcord",
+      "ExecutedDateTime": "2025-05-28T10:32:01.2734766-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\USER\\AppData\\Local\\Ripcord\\",
+      "ExecutedDateTime": "2025-05-28T10:32:02.1501359-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-28T11:39:02.3329365-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-28T11:58:39.4505292-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-28T13:10:39.4196302-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-28T13:10:59.4654308-03:00"
+    },
+    {
+      "Query": "jack",
+      "ExecutedDateTime": "2025-05-28T13:11:00.8764635-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-28T16:29:04.7367791-03:00"
+    },
+    {
+      "Query": "edge",
+      "ExecutedDateTime": "2025-05-28T16:39:25.8431986-03:00"
+    },
+    {
+      "Query": "f ripcord",
+      "ExecutedDateTime": "2025-05-28T18:56:24.5759059-03:00"
+    },
+    {
+      "Query": "qbit",
+      "ExecutedDateTime": "2025-05-28T19:44:02.7792069-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-05-28T21:54:54.6938637-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-28T21:55:58.3349404-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-05-28T21:56:39.2333158-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-28T23:08:50.5419045-03:00"
+    },
+    {
+      "Query": "shutd",
+      "ExecutedDateTime": "2025-05-29T02:17:16.5969941-03:00"
+    },
+    {
+      "Query": "su",
+      "ExecutedDateTime": "2025-05-29T12:13:19.8944133-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-29T12:17:49.3906396-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-05-29T12:25:53.9210192-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-29T16:46:18.5744592-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-29T16:47:13.9125379-03:00"
+    },
+    {
+      "Query": "relo",
+      "ExecutedDateTime": "2025-05-29T19:07:49.1069031-03:00"
+    },
+    {
+      "Query": "rip",
+      "ExecutedDateTime": "2025-05-29T19:07:58.014892-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-29T21:42:37.4762831-03:00"
+    },
+    {
+      "Query": "jell",
+      "ExecutedDateTime": "2025-05-29T21:44:22.1281723-03:00"
+    },
+    {
+      "Query": "das",
+      "ExecutedDateTime": "2025-05-29T22:33:40.5810607-03:00"
+    },
+    {
+      "Query": "shutd",
+      "ExecutedDateTime": "2025-05-30T00:10:45.8622019-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-30T10:51:32.772075-03:00"
+    },
+    {
+      "Query": "ripc",
+      "ExecutedDateTime": "2025-05-30T10:54:14.6754241-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-05-30T10:56:43.9764918-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-30T11:01:48.2423824-03:00"
+    },
+    {
+      "Query": "s displ",
+      "ExecutedDateTime": "2025-05-30T11:09:22.465369-03:00"
+    },
+    {
+      "Query": "s path",
+      "ExecutedDateTime": "2025-05-30T11:10:51.4023135-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-30T11:16:20.1961452-03:00"
+    },
+    {
+      "Query": "s theme",
+      "ExecutedDateTime": "2025-05-30T12:08:22.2864855-03:00"
+    },
+    {
+      "Query": "brave",
+      "ExecutedDateTime": "2025-05-30T12:09:39.0022914-03:00"
+    },
+    {
+      "Query": "f brave-browser",
+      "ExecutedDateTime": "2025-05-30T12:13:34.5970319-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\USER\\AppData\\Local\\BraveSoftware\\Brave-Browser\\",
+      "ExecutedDateTime": "2025-05-30T12:13:36.0609735-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-30T12:14:46.7454733-03:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-05-30T12:29:17.4285361-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-05-30T13:36:25.29855-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-05-30T21:52:31.5363754-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-30T21:53:51.9962598-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-30T21:54:05.7815039-03:00"
+    },
+    {
+      "Query": "kill gla",
+      "ExecutedDateTime": "2025-05-30T21:54:11.3375552-03:00"
+    },
+    {
+      "Query": "kill yas",
+      "ExecutedDateTime": "2025-05-30T21:54:55.7395681-03:00"
+    },
+    {
+      "Query": "kill",
+      "ExecutedDateTime": "2025-05-30T21:57:23.3560492-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-05-30T21:57:27.7153816-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-05-30T21:58:15.4693594-03:00"
+    },
+    {
+      "Query": "s theme",
+      "ExecutedDateTime": "2025-05-30T21:58:22.9045374-03:00"
+    },
+    {
+      "Query": "rip",
+      "ExecutedDateTime": "2025-05-30T22:13:21.576462-03:00"
+    },
+    {
+      "Query": "edg",
+      "ExecutedDateTime": "2025-05-30T22:41:37.2586955-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-05-30T23:02:45.7179254-03:00"
+    },
+    {
+      "Query": "f lbp",
+      "ExecutedDateTime": "2025-05-30T23:04:19.2061741-03:00"
+    },
+    {
+      "Query": "f videos",
+      "ExecutedDateTime": "2025-05-30T23:07:32.3657992-03:00"
+    },
+    {
+      "Query": "f C:\\Users\\USER\\Videos\\",
+      "ExecutedDateTime": "2025-05-30T23:07:33.6308152-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-30T23:09:57.7551412-03:00"
+    },
+    {
+      "Query": "jac",
+      "ExecutedDateTime": "2025-05-30T23:23:57.6009565-03:00"
+    },
+    {
+      "Query": "f hurry up",
+      "ExecutedDateTime": "2025-05-30T23:40:34.620899-03:00"
+    },
+    {
+      "Query": "f input.conf",
+      "ExecutedDateTime": "2025-05-30T23:45:07.2825523-03:00"
+    },
+    {
+      "Query": "f hurry",
+      "ExecutedDateTime": "2025-05-30T23:50:57.0083404-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-31T00:00:43.8618489-03:00"
+    },
+    {
+      "Query": "refle",
+      "ExecutedDateTime": "2025-05-31T14:44:06.9147911-03:00"
+    },
+    {
+      "Query": "emp",
+      "ExecutedDateTime": "2025-05-31T14:45:41.4387643-03:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2025-05-31T14:50:16.2316078-03:00"
+    },
+    {
+      "Query": "ref",
+      "ExecutedDateTime": "2025-05-31T15:05:55.951831-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-05-31T21:25:05.046993-03:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2025-05-31T21:26:24.7528752-03:00"
+    },
+    {
+      "Query": "wsl",
+      "ExecutedDateTime": "2025-05-31T21:47:25.3952899-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-05-31T22:05:56.2223414-03:00"
+    },
+    {
+      "Query": "what",
+      "ExecutedDateTime": "2025-05-31T22:09:33.1032814-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-05-31T22:30:28.0945143-03:00"
+    },
+    {
+      "Query": "WHA",
+      "ExecutedDateTime": "2025-05-31T22:38:09.3924376-03:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2025-06-01T21:34:13.236497-03:00"
+    },
+    {
+      "Query": "kill y",
+      "ExecutedDateTime": "2025-06-01T21:34:26.9266151-03:00"
+    },
+    {
+      "Query": "kill ya",
+      "ExecutedDateTime": "2025-06-01T21:34:34.2082382-03:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-06-01T21:34:49.5004345-03:00"
+    },
+    {
+      "Query": "ste",
+      "ExecutedDateTime": "2025-06-01T22:28:43.8297828-03:00"
+    },
+    {
+      "Query": "hiber",
+      "ExecutedDateTime": "2025-06-02T10:12:04.2361239-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-06-02T10:16:29.2084013-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-02T10:17:58.9828322-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-06-03T10:56:56.2269503-03:00"
+    },
+    {
+      "Query": "s powe",
+      "ExecutedDateTime": "2025-06-03T11:02:30.4773656-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-03T13:48:48.6475378-03:00"
+    },
+    {
+      "Query": "manage",
+      "ExecutedDateTime": "2025-06-05T13:35:39.8801793-03:00"
+    },
+    {
+      "Query": "wiz",
+      "ExecutedDateTime": "2025-06-05T13:36:50.9840407-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-05T14:06:04.1273387-03:00"
+    },
+    {
+      "Query": "f rufus",
+      "ExecutedDateTime": "2025-06-05T14:36:54.8623026-03:00"
+    },
+    {
+      "Query": "f mediacrea",
+      "ExecutedDateTime": "2025-06-05T15:20:31.0543255-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-06-05T15:32:25.9477464-03:00"
+    },
+    {
+      "Query": "f ventoy",
+      "ExecutedDateTime": "2025-06-05T15:51:47.0930574-03:00"
+    },
+    {
+      "Query": "manage",
+      "ExecutedDateTime": "2025-06-05T15:55:00.154539-03:00"
+    },
+    {
+      "Query": "restar",
+      "ExecutedDateTime": "2025-06-05T16:09:41.0149703-03:00"
+    },
+    {
+      "Query": "telegra",
+      "ExecutedDateTime": "2025-06-05T21:38:02.6982626-03:00"
+    },
+    {
+      "Query": "mana",
+      "ExecutedDateTime": "2025-06-05T21:54:09.211509-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-05T21:55:01.7048727-03:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2025-06-05T21:58:04.4208718-03:00"
+    },
+    {
+      "Query": "kill yasb",
+      "ExecutedDateTime": "2025-06-05T21:58:35.2743019-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-05T21:59:48.2844615-03:00"
+    },
+    {
+      "Query": "f ventoy",
+      "ExecutedDateTime": "2025-06-05T22:35:59.6700335-03:00"
+    },
+    {
+      "Query": "jell",
+      "ExecutedDateTime": "2025-06-05T22:42:08.4142073-03:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2025-06-05T23:03:39.6723632-03:00"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+Aqui está a lista **completa e direta** dos comandos que você usou ou deveria ter usado para configurar o Git com SSH para o GitHub:
+
+---
+
+## 🔧 Comandos para configurar Git com SSH (chave personalizada)
+
+```bash
+# 1. Gerar chave SSH com nome personalizado
+ssh-keygen -t ed25519 -C "seu@email.com" -f ~/.ssh/id_ed25519_github
+
+# 2. Iniciar o agente SSH (se ainda não estiver rodando)
+eval "$(ssh-agent -s)"
+
+# 3. Adicionar a chave ao agente
+ssh-add ~/.ssh/id_ed25519_github
+
+# 4. Criar o arquivo de configuração do SSH para usar a chave certa com o GitHub
+nano ~/.ssh/config
+```
+
+Conteúdo do arquivo `~/.ssh/config`:
+
+```
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_github
+    IdentitiesOnly yes
+```
+
+```bash
+# 5. Copiar a chave pública para colar no GitHub
+cat ~/.ssh/id_ed25519_github.pub
+
+# 6. (no navegador) Colar a chave pública no GitHub em:
+# https://github.com/settings/ssh/new
+# Selecionar "Authentication Key" ao adicionar.
+
+# 7. Testar a conexão SSH com GitHub
+ssh -T git@github.com
+
+# 8. (opcional) Trocar a URL do repositório clonado para SSH
+cd scripts
+git remote set-url origin git@github.com:Krasinski22/scripts.git
+git remote -v  # conferir
+```
+
+---
+
+Se quiser, posso gerar um script `.sh` com isso tudo.
+Agora vou te mostrar como automatizar o `ssh-add`.

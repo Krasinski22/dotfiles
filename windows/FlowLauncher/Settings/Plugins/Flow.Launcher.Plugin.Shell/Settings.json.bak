@@ -1,0 +1,24 @@
+{
+  "Shell": 1,
+  "ReplaceWinR": false,
+  "CloseShellAfterPress": false,
+  "LeaveShellOpen": false,
+  "RunAsAdministrator": false,
+  "UseWindowsTerminal": false,
+  "ShowOnlyMostUsedCMDs": false,
+  "ShowOnlyMostUsedCMDsNumber": 5,
+  "CommandHistory": {
+    "explorer .": 2,
+    "~/rne-guide.pdf": 1,
+    "C:\\Users\\USER/rne-guide.pdf": 1,
+    "C:\\users\\user\\rne-guide.pdf": 3,
+    "explorer .C:\\users\\user\\": 1,
+    "explorer C:\\users\\user\\": 3,
+    "explorer C:\\users\\user\\rne-guide.pdf": 1,
+    "chrome C:\\users\\user\\rne-guide.pdf": 2,
+    "subl C:\\users\\user\\rne-guide.txt": 1,
+    "subl C:\\users\\user\\rne-guide.pdf": 2,
+    "winver": 1,
+    "ipconfig": 1
+  }
+}
