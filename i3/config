@@ -2,7 +2,7 @@ set $mod Mod1
 
 font pango:monospace 12 # Font for window titles
 
-exec_always --no-startup-id ~/scripts/i3/start_polybar.sh
+exec_always --no-startup-id ~/dotfiles/i3/start_polybar.sh
 
 font pango:DejaVu Sans Mono 10
 
@@ -34,7 +34,7 @@ tiling_drag modifier titlebar
 
 # start a terminal
 # bindsym $mod+Return exec kitty
-bindsym $mod+Return exec wezterm
+bindsym $mod+Return exec kitty
 
 # kill focused window
 bindsym $mod+Shift+q kill
