@@ -71,7 +71,7 @@
     {
         "defaults": 
         {
-            "backgroundImage": "%USERPROFILE%\\scripts\\images\\dark\\amadeus.jpg",
+            "backgroundImage": "%USERPROFILE%\\wallpapers\\dark\\amadeus.jpg",
             "backgroundImageOpacity": 0.22,
             "colorScheme": "Solarized Dark Patched",
             "font": 
@@ -103,7 +103,7 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "backgroundImage": "%USERPROFILE%\\scripts\\images\\dark\\amadeus.jpg",
+                "backgroundImage": "%USERPROFILE%\\wallpapers\\dark\\amadeus.jpg",
                 "backgroundImageOpacity": 0.22,
                 "commandline": "\"C:\\Program Files\\PowerShell\\7\\pwsh.exe\" -NoLogo",
                 "experimental.retroTerminalEffect": false,
