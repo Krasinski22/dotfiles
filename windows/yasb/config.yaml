@@ -127,10 +127,10 @@ widgets:
     options:
       label: "<span>{icon}</span> {temp}"
       label_alt: "{location}: {conditions}, Min {min_temp}, Max {max_temp}, Humidity {humidity}"
-      api_key: '24b6c2cda6d84066b0304531241908'
+      api_key: '26e6092f53a7463497611235251004'
       update_interval: 600
       hide_decimal: true
-      location: "Hungary, Eger"
+      location: "Rio de Janeiro"
       units: "metric"
       callbacks:
         on_left: "toggle_card"
