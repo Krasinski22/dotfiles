@@ -42,6 +42,10 @@ function shutdown {
 #}
 
 
+function git-cred-store {
+  git config --global credential.helper store
+}
+
 Function yt {
     param (
         [string]$Link,
