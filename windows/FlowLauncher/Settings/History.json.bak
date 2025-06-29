@@ -1,106 +1,6 @@
 {
   "Items": [
     {
-      "Query": "hiber",
-      "ExecutedDateTime": "2025-05-20T09:47:10.4023368-03:00"
-    },
-    {
-      "Query": "obs",
-      "ExecutedDateTime": "2025-05-20T10:05:58.0576452-03:00"
-    },
-    {
-      "Query": "remote",
-      "ExecutedDateTime": "2025-05-20T10:08:30.2212946-03:00"
-    },
-    {
-      "Query": "shut",
-      "ExecutedDateTime": "2025-05-20T10:56:44.1489721-03:00"
-    },
-    {
-      "Query": "obs",
-      "ExecutedDateTime": "2025-05-20T18:23:56.1149766-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-20T18:30:25.5829394-03:00"
-    },
-    {
-      "Query": "sett",
-      "ExecutedDateTime": "2025-05-20T18:30:33.7846434-03:00"
-    },
-    {
-      "Query": "SETT",
-      "ExecutedDateTime": "2025-05-20T19:29:56.0184944-03:00"
-    },
-    {
-      "Query": "f  C:\\ProgramData\\Jellyfin\\Server\\config\\system.xml",
-      "ExecutedDateTime": "2025-05-20T19:32:56.106329-03:00"
-    },
-    {
-      "Query": "set",
-      "ExecutedDateTime": "2025-05-20T20:24:32.5454789-03:00"
-    },
-    {
-      "Query": "robo",
-      "ExecutedDateTime": "2025-05-20T22:30:33.7029694-03:00"
-    },
-    {
-      "Query": "\u003E explorer .",
-      "ExecutedDateTime": "2025-05-21T00:46:14.995226-03:00"
-    },
-    {
-      "Query": "sett",
-      "ExecutedDateTime": "2025-05-21T00:46:59.6859181-03:00"
-    },
-    {
-      "Query": "\u003E exp",
-      "ExecutedDateTime": "2025-05-21T00:47:35.3984964-03:00"
-    },
-    {
-      "Query": "\u003E ~/rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:48:00.2250419-03:00"
-    },
-    {
-      "Query": "\u003E %USERPROFILE%/rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:48:16.9878575-03:00"
-    },
-    {
-      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:48:42.3879249-03:00"
-    },
-    {
-      "Query": "\u003E explorer .C:\\users\\user\\",
-      "ExecutedDateTime": "2025-05-21T00:48:58.4540106-03:00"
-    },
-    {
-      "Query": "\u003E explorer C:\\users\\user\\",
-      "ExecutedDateTime": "2025-05-21T00:49:06.5277955-03:00"
-    },
-    {
-      "Query": "\u003E explorer C:\\users\\user\\rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:49:18.9433419-03:00"
-    },
-    {
-      "Query": "\u003E chrome C:\\users\\user\\rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:49:31.0884833-03:00"
-    },
-    {
-      "Query": "\u003E explorer C:\\users\\user\\",
-      "ExecutedDateTime": "2025-05-21T00:49:56.3184755-03:00"
-    },
-    {
-      "Query": "\u003E subl C:\\users\\user\\rne-guide.txt",
-      "ExecutedDateTime": "2025-05-21T00:50:18.167911-03:00"
-    },
-    {
-      "Query": "\u003E subl C:\\users\\user\\rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:50:47.9635246-03:00"
-    },
-    {
-      "Query": "\u003E C:\\users\\user\\rne-guide.pdf",
-      "ExecutedDateTime": "2025-05-21T00:50:55.32457-03:00"
-    },
-    {
       "Query": "\u003E chrome C:\\users\\user\\rne-guide.pdf",
       "ExecutedDateTime": "2025-05-21T00:51:04.0792365-03:00"
     },
@@ -1203,6 +1103,106 @@
     {
       "Query": "tele",
       "ExecutedDateTime": "2025-06-28T01:00:13.3149182-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-06-28T19:18:29.548817-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-06-28T19:18:39.2345928-03:00"
+    },
+    {
+      "Query": "reload",
+      "ExecutedDateTime": "2025-06-28T19:19:42.7084312-03:00"
+    },
+    {
+      "Query": "f rufus",
+      "ExecutedDateTime": "2025-06-28T19:19:59.2786315-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-28T20:07:51.790443-03:00"
+    },
+    {
+      "Query": "expl",
+      "ExecutedDateTime": "2025-06-28T20:38:03.7147368-03:00"
+    },
+    {
+      "Query": "s po",
+      "ExecutedDateTime": "2025-06-28T22:01:08.8642538-03:00"
+    },
+    {
+      "Query": "note",
+      "ExecutedDateTime": "2025-06-28T22:21:43.5705935-03:00"
+    },
+    {
+      "Query": "notepad",
+      "ExecutedDateTime": "2025-06-28T22:21:48.5458259-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-28T22:25:26.8792676-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-28T22:26:00.1607114-03:00"
+    },
+    {
+      "Query": "f default windows keyma",
+      "ExecutedDateTime": "2025-06-28T22:36:16.3287941-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-06-28T22:54:20.4820992-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-28T23:07:46.6735429-03:00"
+    },
+    {
+      "Query": "su",
+      "ExecutedDateTime": "2025-06-28T23:10:57.9020637-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-28T23:14:00.5412535-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-06-28T23:20:24.9889048-03:00"
+    },
+    {
+      "Query": "e",
+      "ExecutedDateTime": "2025-06-28T23:33:01.7476013-03:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-06-28T23:40:28.3396068-03:00"
+    },
+    {
+      "Query": "s sett",
+      "ExecutedDateTime": "2025-06-28T23:40:39.3236323-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-28T23:41:42.0229689-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-06-28T23:57:04.0798142-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-06-29T00:30:41.8878895-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-29T00:30:45.412203-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-06-29T00:31:53.8959041-03:00"
     }
   ]
 }
