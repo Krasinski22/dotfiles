@@ -1,66 +1,6 @@
 {
   "Items": [
     {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-15T14:41:32.4308395-03:00"
-    },
-    {
-      "Query": "te",
-      "ExecutedDateTime": "2025-05-15T16:17:54.7279912-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-16T01:28:13.5105893-03:00"
-    },
-    {
-      "Query": "hiber",
-      "ExecutedDateTime": "2025-05-16T01:55:50.3612445-03:00"
-    },
-    {
-      "Query": "f linear bounded",
-      "ExecutedDateTime": "2025-05-17T12:36:51.9961347-03:00"
-    },
-    {
-      "Query": "f linear boun",
-      "ExecutedDateTime": "2025-05-17T13:20:04.4035086-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-17T23:10:51.9785948-03:00"
-    },
-    {
-      "Query": "hiber",
-      "ExecutedDateTime": "2025-05-18T00:04:04.9860878-03:00"
-    },
-    {
-      "Query": "f monster ka",
-      "ExecutedDateTime": "2025-05-19T18:08:22.5262664-03:00"
-    },
-    {
-      "Query": "f D:\\OneDrive\\storage\\media\\text\\manga\\Naoki Urasawa\\Monster Kansenban Vol 01 (92)\\",
-      "ExecutedDateTime": "2025-05-19T18:08:23.5071903-03:00"
-    },
-    {
-      "Query": "kee",
-      "ExecutedDateTime": "2025-05-19T18:51:30.2803286-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-19T20:55:54.1192949-03:00"
-    },
-    {
-      "Query": "sub",
-      "ExecutedDateTime": "2025-05-19T20:57:55.1963175-03:00"
-    },
-    {
-      "Query": "obs",
-      "ExecutedDateTime": "2025-05-19T20:58:10.5737907-03:00"
-    },
-    {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-19T22:32:50.8015782-03:00"
-    },
-    {
       "Query": "hiber",
       "ExecutedDateTime": "2025-05-20T09:47:10.4023368-03:00"
     },
@@ -1203,6 +1143,66 @@
     {
       "Query": "rest",
       "ExecutedDateTime": "2025-06-05T23:03:39.6723632-03:00"
+    },
+    {
+      "Query": "res",
+      "ExecutedDateTime": "2025-06-15T00:56:33.2916615-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-06-27T20:35:32.9887008-03:00"
+    },
+    {
+      "Query": "das",
+      "ExecutedDateTime": "2025-06-27T21:26:44.3536445-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-27T23:27:31.4107109-03:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-06-27T23:43:24.8507407-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-27T23:44:46.7055204-03:00"
+    },
+    {
+      "Query": "kee",
+      "ExecutedDateTime": "2025-06-27T23:46:21.0699862-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-27T23:50:13.8188258-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-06-27T23:51:22.1968509-03:00"
+    },
+    {
+      "Query": "em",
+      "ExecutedDateTime": "2025-06-27T23:51:57.3076531-03:00"
+    },
+    {
+      "Query": "emp",
+      "ExecutedDateTime": "2025-06-28T00:21:55.1659338-03:00"
+    },
+    {
+      "Query": "onedr",
+      "ExecutedDateTime": "2025-06-28T00:24:59.1082788-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-06-28T00:42:08.3405533-03:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2025-06-28T00:45:43.0941786-03:00"
+    },
+    {
+      "Query": "tele",
+      "ExecutedDateTime": "2025-06-28T01:00:13.3149182-03:00"
     }
   ]
 }
