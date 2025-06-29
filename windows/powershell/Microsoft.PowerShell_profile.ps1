@@ -1,6 +1,34 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
-function poweroff {
+function trash($path) {
+    $fullPath = (Resolve-Path -Path $path).Path
+
+    if (Test-Path $fullPath) {
+        $item = Get-Item $fullPath
+
+        if ($item.PSIsContainer) {
+          # Handle directory
+            $parentPath = $item.Parent.FullName
+        } else {
+            # Handle file
+            $parentPath = $item.DirectoryName
+        }
+
+        $shell = New-Object -ComObject 'Shell.Application'
+        $shellItem = $shell.NameSpace($parentPath).ParseName($item.Name)
+
+        if ($item) {
+            $shellItem.InvokeVerb('delete')
+            Write-Host "Item '$fullPath' has been moved to the Recycle Bin."
+        } else {
+            Write-Host "Error: Could not find the item '$fullPath' to trash."
+        }
+    } else {
+        Write-Host "Error: Item '$fullPath' does not exist."
+    }
+}
+
+function shutdown {
     Stop-Computer -Force
 }
 
@@ -103,11 +131,6 @@ function pkill($name) {
     Get-Process $name -ErrorAction SilentlyContinue | Stop-Process
 }
 
-#function pkill($name) {
-#    Get-Process -Name $name -ErrorAction SilentlyContinue | Stop-Process -Force
-#}
-
-
 function pgrep($name) {
     Get-Process $name
 }
@@ -138,6 +161,34 @@ function ln {
     
     # Cria um link simbólico (como no Unix)
     New-Item -ItemType SymbolicLink -Path $link -Target $target
+}
+
+function trash($path) {
+    $fullPath = (Resolve-Path -Path $path).Path
+
+    if (Test-Path $fullPath) {
+        $item = Get-Item $fullPath
+
+        if ($item.PSIsContainer) {
+          # Handle directory
+            $parentPath = $item.Parent.FullName
+        } else {
+            # Handle file
+            $parentPath = $item.DirectoryName
+        }
+
+        $shell = New-Object -ComObject 'Shell.Application'
+        $shellItem = $shell.NameSpace($parentPath).ParseName($item.Name)
+
+        if ($item) {
+            $shellItem.InvokeVerb('delete')
+            Write-Host "Item '$fullPath' has been moved to the Recycle Bin."
+        } else {
+            Write-Host "Error: Could not find the item '$fullPath' to trash."
+        }
+    } else {
+        Write-Host "Error: Item '$fullPath' does not exist."
+    }
 }
 
 # Import the Chocolatey Profile that contains the necessary code to enable
