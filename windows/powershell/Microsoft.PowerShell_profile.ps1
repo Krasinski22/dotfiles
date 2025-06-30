@@ -95,7 +95,7 @@ function trash($path) {
     }
 }
 
-function shutdown {
+function poweroff {
     Stop-Computer -Force
 }
 
