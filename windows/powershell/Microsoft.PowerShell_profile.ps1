@@ -1,5 +1,11 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function Show-InputDevices {
+    # Corrected line: The entire argument string for rundll32 is enclosed in double quotes.
+    rundll32 "Shell32,Control_RunDLL input.dll,,{C07337D3-DB2C-4D0B-9A93-B722A6C106E2}"
+}
+
+
 function ff {
     [CmdletBinding()]
     param (
