@@ -1,5 +1,26 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function ff {
+    [CmdletBinding(DefaultParameterSetName='FileNameOnly')] # Define um conjunto de parâmetros padrão
+    param (
+        [Parameter(Position=0, ParameterSetName='FileNameOnly', Mandatory=$true)]
+        [string]$FileName, # Tornamos o FileName posicional para o uso simplificado
+
+        [string]$Directory = (Get-Location).Drive.Root.FullName # Diretório opcional, padrão para a raiz
+    )
+
+    try {
+        # Usa Get-ChildItem para procurar o arquivo recursivamente no diretório especificado
+        Get-ChildItem -Path $Directory -Recurse -Filter $FileName -ErrorAction Stop | ForEach-Object {
+            # Exibe o caminho completo do arquivo encontrado
+            Write-Output $_.FullName
+        }
+    }
+    catch {
+        Write-Error "Ocorreu um erro ao procurar o arquivo: $($_.Exception.Message)"
+    }
+}
+
 function trash($path) {
     $fullPath = (Resolve-Path -Path $path).Path
 
