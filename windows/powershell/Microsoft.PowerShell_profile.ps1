@@ -8,6 +8,10 @@ function grep($regex, $dir) {
     $input | select-string $regex
 }
 
+function control-tools {
+    control.exe /name Microsoft.AdministrativeTools
+}
+
 function Safe-Symlink {
     param (
         [string]$LinkPath,
@@ -52,12 +56,13 @@ function ff {
 
         # O diretório é sempre nomeado, é opcional, e agora aceita -d como alias!
         [Parameter(HelpMessage='O diretório para iniciar a busca. Se omitido, a busca começa na raiz da unidade atual.')]
-        [Alias('d')] # <--- AQUI ESTÁ A MUDANÇA
+        [Alias('d')]
         [string]$Directory
     )
 
     # Variáveis internas para a busca
-    $searchFileName = $FileName
+    # Adicione os asteriscos aqui para permitir a busca parcial!
+    $searchFileName = "*$FileName*" 
     $searchDirectory = $Directory
 
     # --- Lógica de determinação do diretório de busca ---
@@ -69,17 +74,17 @@ function ff {
             # Extrai a letra do drive e forma o caminho raiz (ex: C:\)
             $driveLetter = ($currentPath.Split(':', 2)[0]) + ":"
             $searchDirectory = $driveLetter + "\"
-            Write-Host "Pesquisando '$searchFileName' na raiz da unidade atual ($searchDirectory)..." -ForegroundColor Cyan
+            Write-Host "Pesquisando '$FileName' (correspondência parcial) na raiz da unidade atual ($searchDirectory)..." -ForegroundColor Cyan
         }
         catch {
             # Fallback seguro para C:\ se não conseguir determinar a unidade atual
             $searchDirectory = "C:\"
-            Write-Warning "Não foi possível determinar a raiz da unidade atual. Usando C:\ como padrão para a busca de '$searchFileName'."
+            Write-Warning "Não foi possível determinar a raiz da unidade atual. Usando C:\ como padrão para a busca de '$FileName'."
         }
     }
     else {
         # Se o parâmetro -Directory (ou -d) FOI fornecido, usamos ele
-        Write-Host "Pesquisando '$searchFileName' em '$searchDirectory'..." -ForegroundColor Cyan
+        Write-Host "Pesquisando '$FileName' (correspondência parcial) em '$searchDirectory'..." -ForegroundColor Cyan
     }
 
     # --- Execução da busca ---
