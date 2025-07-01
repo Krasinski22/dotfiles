@@ -1,18 +1,6 @@
 {
   "Items": [
     {
-      "Query": "serv",
-      "ExecutedDateTime": "2025-05-21T17:47:41.8977527-03:00"
-    },
-    {
-      "Query": "wha",
-      "ExecutedDateTime": "2025-05-21T17:59:37.612135-03:00"
-    },
-    {
-      "Query": "te",
-      "ExecutedDateTime": "2025-05-21T18:00:53.3623361-03:00"
-    },
-    {
       "Query": "tele",
       "ExecutedDateTime": "2025-05-21T18:00:57.3919834-03:00"
     },
@@ -1198,7 +1186,19 @@
     },
     {
       "Query": "ter",
-      "ExecutedDateTime": "2025-06-30T21:16:21.9575454-03:00"
+      "ExecutedDateTime": "2025-06-30T21:27:12.0623973-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-30T21:28:08.4462241-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-06-30T21:29:00.9049987-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-30T21:53:11.2212732-03:00"
     }
   ]
 }

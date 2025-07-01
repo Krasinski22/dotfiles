@@ -1,5 +1,13 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function grep($regex, $dir) {
+    if ( $dir ) {
+        Get-ChildItem $dir | select-string $regex
+        return
+    }
+    $input | select-string $regex
+}
+
 function Safe-Symlink {
     param (
         [string]$LinkPath,
