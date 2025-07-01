@@ -1,14 +1,6 @@
 {
   "Items": [
     {
-      "Query": "tele",
-      "ExecutedDateTime": "2025-05-21T18:00:57.3919834-03:00"
-    },
-    {
-      "Query": "s power",
-      "ExecutedDateTime": "2025-05-21T20:24:05.8146254-03:00"
-    },
-    {
       "Query": "ter",
       "ExecutedDateTime": "2025-05-21T20:24:25.2907661-03:00"
     },
@@ -1199,6 +1191,18 @@
     {
       "Query": "sub",
       "ExecutedDateTime": "2025-06-30T21:53:11.2212732-03:00"
+    },
+    {
+      "Query": "servic",
+      "ExecutedDateTime": "2025-06-30T22:00:32.3353172-03:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-06-30T22:05:06.026113-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-06-30T22:12:19.0662811-03:00"
     }
   ]
 }
