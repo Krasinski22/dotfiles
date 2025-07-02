@@ -1,5 +1,9 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function soundpanel {
+    mmsys.cpl
+}
+
 function grep($regex, $dir) {
     if ( $dir ) {
         Get-ChildItem $dir | select-string $regex
@@ -75,7 +79,7 @@ function ff {
             # Extrai a letra do drive e forma o caminho raiz (ex: C:\)
             $driveLetter = ($currentPath.Split(':', 2)[0]) + ":"
             $searchDirectory = $driveLetter + "\"
-            Write-Host "Pesquisando '$FileName' (correspondência parcial) na raiz da unidade atual ($searchDirectory)..." -ForegroundColor Cyan
+            Write-Host "Pesquisando '$FileName' na raiz da unidade atual ($searchDirectory)..." -ForegroundColor Cyan
         }
         catch {
             # Fallback seguro para C:\ se não conseguir determinar a unidade atual

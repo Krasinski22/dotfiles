@@ -1,6 +1,10 @@
 general:
-  startup_commands: ['shell-exec yasb']
-
+  startup_commands: [
+    'shell-exec yasb', 
+    'shell-exec pwsh -File %userprofile%\scripts\windows\start.ps1'
+  ]
+  
+  # startup_commands: ['shell-exec yasb']
   shutdown_commands: ['shell-exec taskkill /IM yasb.exe /F']
 
   config_reload_commands: []
