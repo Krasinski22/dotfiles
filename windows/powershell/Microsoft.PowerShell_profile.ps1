@@ -62,7 +62,8 @@ function ff {
 
     # Variáveis internas para a busca
     # Adicione os asteriscos aqui para permitir a busca parcial!
-    $searchFileName = "*$FileName*" 
+    #PESQUISA TODOS OS ARQUIVOS QUE TENHAM FileName NO MEIO ### $searchFileName = "*$FileName*"
+    $searchFileName = "$FileName" 
     $searchDirectory = $Directory
 
     # --- Lógica de determinação do diretório de busca ---
