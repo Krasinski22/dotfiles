@@ -1,5 +1,13 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function guide-dash-coz {
+    nvim D:\syncthing-default\dash-guide-coz.txt
+}
+
+function guide-variant {
+    nvim D:\syncthing-default\variant-space-octet-guide.txt
+}
+
 $LocalAppData = $env:LOCALAPPDATA
 $AppData = $env:APPDATA
 
@@ -7,6 +15,8 @@ $ProgramFiles = $env:ProgramFiles
 $ProgramFilesX86 = "$env:ProgramFiles (x86)"
 
 $c = "C:\"
+
+$d = "D:\"
 
 function install-chocolatey {
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
