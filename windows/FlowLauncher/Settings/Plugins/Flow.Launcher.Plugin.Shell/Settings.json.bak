@@ -1,10 +1,10 @@
 {
-  "Shell": 1,
+  "Shell": 3,
   "ReplaceWinR": false,
   "CloseShellAfterPress": false,
-  "LeaveShellOpen": false,
+  "LeaveShellOpen": true,
   "RunAsAdministrator": false,
-  "UseWindowsTerminal": false,
+  "UseWindowsTerminal": true,
   "ShowOnlyMostUsedCMDs": false,
   "ShowOnlyMostUsedCMDsNumber": 5,
   "CommandHistory": {
@@ -19,6 +19,7 @@
     "subl C:\\users\\user\\rne-guide.txt": 1,
     "subl C:\\users\\user\\rne-guide.pdf": 2,
     "winver": 1,
-    "ipconfig": 1
+    "ipconfig": 1,
+    "iconset": 3
   }
 }

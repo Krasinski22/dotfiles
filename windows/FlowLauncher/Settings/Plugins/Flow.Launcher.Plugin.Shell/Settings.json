@@ -2,7 +2,7 @@
   "Shell": 3,
   "ReplaceWinR": false,
   "CloseShellAfterPress": false,
-  "LeaveShellOpen": true,
+  "LeaveShellOpen": false,
   "RunAsAdministrator": false,
   "UseWindowsTerminal": true,
   "ShowOnlyMostUsedCMDs": false,
@@ -20,6 +20,6 @@
     "subl C:\\users\\user\\rne-guide.pdf": 2,
     "winver": 1,
     "ipconfig": 1,
-    "iconset": 3
+    "iconset": 4
   }
 }
