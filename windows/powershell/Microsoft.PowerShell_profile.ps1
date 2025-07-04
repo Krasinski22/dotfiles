@@ -1,9 +1,12 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
-function tchau {
+$LocalAppData = $env:LOCALAPPDATA
+$AppData = $env:APPDATA
 
-    echo "tchau"
-}
+$ProgramFiles = $env:ProgramFiles
+$ProgramFilesX86 = "$env:ProgramFiles (x86)"
+
+$c = "C:\"
 
 function install-chocolatey {
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
