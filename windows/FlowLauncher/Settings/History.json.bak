@@ -1,22 +1,6 @@
 {
   "Items": [
     {
-      "Query": "clo",
-      "ExecutedDateTime": "2025-05-21T17:47:28.2843996-03:00"
-    },
-    {
-      "Query": "serv",
-      "ExecutedDateTime": "2025-05-21T17:47:41.8977527-03:00"
-    },
-    {
-      "Query": "wha",
-      "ExecutedDateTime": "2025-05-21T17:59:37.612135-03:00"
-    },
-    {
-      "Query": "te",
-      "ExecutedDateTime": "2025-05-21T18:00:53.3623361-03:00"
-    },
-    {
       "Query": "tele",
       "ExecutedDateTime": "2025-05-21T18:00:57.3919834-03:00"
     },
@@ -1199,6 +1183,26 @@
     {
       "Query": "gla",
       "ExecutedDateTime": "2025-07-02T14:19:32.01199-03:00"
+    },
+    {
+      "Query": "sub",
+      "ExecutedDateTime": "2025-07-02T18:18:49.5222944-03:00"
+    },
+    {
+      "Query": "s uninstall",
+      "ExecutedDateTime": "2025-07-02T18:22:41.2569863-03:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-07-02T22:41:13.7069079-03:00"
+    },
+    {
+      "Query": "ste",
+      "ExecutedDateTime": "2025-07-02T23:06:36.7257415-03:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2025-07-02T23:23:51.0446442-03:00"
     }
   ]
 }
