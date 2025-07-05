@@ -1,5 +1,15 @@
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/M365Princess.omp.json" | Invoke-Expression
 
+function yt-dlp-best-mp4 {
+    param (
+        [Parameter(Mandatory=$true)]
+        [string]$VideoUrl
+    )
+
+    $command = "yt-dlp -f `"bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio`" --merge-output-format mp4 `"$VideoUrl`""
+    Invoke-Expression $command
+}
+
 function guide-dash-coz {
     nvim D:\syncthing-default\dash-guide-coz.txt
 }
@@ -13,6 +23,8 @@ $AppData = $env:APPDATA
 
 $ProgramFiles = $env:ProgramFiles
 $ProgramFilesX86 = "$env:ProgramFiles (x86)"
+
+$nvimconfig = "$HOME\dotfiles\nvim\init.lua"
 
 $c = "C:\"
 
